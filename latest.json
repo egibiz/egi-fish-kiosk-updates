@@ -1,0 +1,11 @@
+{
+    "version":  "0.1.4",
+    "notes":  "易붾━寃륡G 議곗텛泥??ㅼ삤?ㅽ겕 v0.1.4",
+    "pub_date":  "2026-07-21T01:00:53Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOStuU3NRV255YUxzVHB4MHZLWlpaVTlJVHZSREhGaW14YW5RdVdEYlR1RmpzYkc0SXVtOFRCV0IwWXpBbktDMitXNmkzVDlRb2EzNVBZbXRXOXhad2xXZ0p6U2d0dHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTk1NjQxCWZpbGU6ZWdpLWZpc2gta2lvc2tfMC4xLjRfeDY0LXNldHVwLmV4ZQpCL21VNzlycHgwdnBuYTJQcXFxejh1eGRhTC92MVBqOS9CVG95RW8zRVBjMzA3RFNzaG5mMERTdmhsZUtKcFh2Y3ZZT0p2RmxWZW5EdUtEaVBKOExBUT09Cg==",
+                                             "url":  "https://github.com/egibiz/egi-fish-kiosk-updates/releases/download/v0.1.4/egi-fish-kiosk_0.1.4_x64-setup.exe"
+                                         }
+                  }
+}
